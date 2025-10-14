@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Cupertino",
+  "enabledCssSnippets": [
+    "colorFolder"
+  ],
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono"
+}

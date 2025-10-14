@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "faf119f502266dc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1885d21ec0795ba1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "426c83e6d659d3d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Personal/Charles Robert Darwin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Charles Robert Darwin"
+            }
+          },
+          {
+            "id": "443707dcc91c968e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 - Templates/ActionPlan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ActionPlan"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "418625b851a29b87",
+    "type": "split",
+    "children": [
+      {
+        "id": "9167afc6a8bb20ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ba79a25dd4d53b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "33fa808ead0d7693",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2a5457a377aa5d1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "bb5ac25703c9bb41",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cb996f4e0ec4d2b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85c8c470a0cc64e6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a3ae25735c56bfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ec063217079975c",
+        "type": "tabs",
+        "dimension": 41.11512234255917,
+        "children": [
+          {
+            "id": "c149aadfe5ca0286",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d96eb71fdbccebd0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4778d170e55aaed7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "99 - Templates/ActionPlan.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ActionPlan"
+            }
+          },
+          {
+            "id": "4cd19823c01104d9",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "79731be280052e6c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4c47b3e2b16aeb24",
+        "type": "tabs",
+        "dimension": 29.442438828720416,
+        "children": [
+          {
+            "id": "c9cb5dc99adb0cca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8a9306cf36c2aab5",
+        "type": "tabs",
+        "dimension": 29.442438828720416,
+        "children": [
+          {
+            "id": "6610035c25ecb3d3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
+      "bases:Create new base": false,
+      "templates:Insert template": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "graph:Open graph view": true
+    }
+  },
+  "active": "443707dcc91c968e",
+  "lastOpenFiles": [
+    "99 - Templates/Blog.md",
+    "99 - Templates/ActionPlan.md",
+    "99 - Templates/YearlyReview.md",
+    "99 - Templates/YearlyGoals.md",
+    "99 - Templates/Recept.md",
+    "99 - Templates/Project.md",
+    "99 - Templates/DecisionMaking.md",
+    "99 - Templates/Daily.md",
+    "99 - Templates/Course.md",
+    "99 - Templates/CourseNote.md",
+    "99 - Templates/Books.md",
+    "04 - Blog/Obsidian Configuration.md",
+    "04 - Blog/Youtube Channels.md",
+    "04 - Blog/My Dev Environment Configuration.md",
+    "Untitled.base",
+    "97 - Indexes/Index - Templates.md",
+    "02 - Work/HowTo.md",
+    "99 - Templates/Emoji Template.md",
+    "04 - Blog/Aliases git vs. bash.md",
+    "02 - Work/Navod ako lokalne skontrolovat user-documentation.md",
+    "Untitled Kanban.md",
+    "Untitled/desktop.ini",
+    "97 - Indexes",
+    "01 - Personal/Charles Robert Darwin.md",
+    "01 - Personal/Isaac Asimov.md",
+    "01 - Personal/Isaac Newton.md",
+    "05 - Trainings/GCP Training Prereqs.md",
+    "01 - Personal/Cooking/desktop.ini",
+    "98 - Archives/desktop.ini",
+    "97 - Prompt Templates/desktop.ini",
+    "01 - Personal/Cooking",
+    "99 - Templates/99 - Index",
+    "99 - Templates/18 - Geographic",
+    "99 - Templates/17 - WordDictionary",
+    "Untitled.canvas"
+  ]
+}
