@@ -4,39 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1885d21ec0795ba1",
+        "id": "db7a4aaa884b5730",
         "type": "tabs",
         "children": [
           {
-            "id": "426c83e6d659d3d1",
+            "id": "3b556b0f58c81bdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "01 - Personal/Charles Robert Darwin.md",
-                "mode": "source",
-                "source": false
+                "file": "97 - Indexes/Zoznam blogových článkov.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Charles Robert Darwin"
-            }
-          },
-          {
-            "id": "443707dcc91c968e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99 - Templates/ActionPlan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ActionPlan"
+              "icon": "lucide-table",
+              "title": "Zoznam blogových článkov"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,25 +72,15 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "bb5ac25703c9bb41",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ]
       },
       {
-        "id": "cb996f4e0ec4d2b8",
+        "id": "0d57105df3892b57",
         "type": "tabs",
         "children": [
           {
-            "id": "85c8c470a0cc64e6",
+            "id": "3dab58cdc97b7b19",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -167,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - Templates/ActionPlan.md",
+                "file": "97 - Indexes/Zoznam blogových článkov.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ActionPlan"
+              "title": "Outline of Zoznam blogových článkov"
             }
           },
           {
@@ -255,48 +229,51 @@
       "bases:Create new base": false,
       "templates:Insert template": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "graph:Open graph view": true
+      "templater-obsidian:Templater": false,
+      "graph:Open graph view": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "443707dcc91c968e",
+  "active": "3b556b0f58c81bdc",
   "lastOpenFiles": [
-    "99 - Templates/Blog.md",
-    "99 - Templates/ActionPlan.md",
-    "99 - Templates/YearlyReview.md",
-    "99 - Templates/YearlyGoals.md",
-    "99 - Templates/Recept.md",
-    "99 - Templates/Project.md",
-    "99 - Templates/DecisionMaking.md",
-    "99 - Templates/Daily.md",
-    "99 - Templates/Course.md",
-    "99 - Templates/CourseNote.md",
-    "99 - Templates/Books.md",
-    "04 - Blog/Obsidian Configuration.md",
-    "04 - Blog/Youtube Channels.md",
-    "04 - Blog/My Dev Environment Configuration.md",
-    "Untitled.base",
+    "96 - Images/Charles Darwin.png",
+    "05 - Other/Charles Robert Darwin.md",
+    "04 - Knowledge Sharing/Aliases git vs. bash.md",
+    "04 - Knowledge Sharing/Youtube Channels.md",
+    "04 - Knowledge Sharing/GCP Training Prereqs.md",
+    "01 - Develop/Obsidian Configuration.md",
+    "00 - Drafts/My Dev Environment Configuration.md",
+    "99 - Templates/Author Template.md",
+    "99 - Templates/BlogPost Idea Template.md",
+    "99 - Templates/Project Template.md",
+    "99 - Templates/README.md Template.md",
+    "99 - Templates/Recipe Template.md",
+    "99 - Templates/Map of Content (MoC) Template.md",
+    "01 - Develop/My Note-taking System or Zettelkasten for Devs.md",
+    "01 - Develop/HowTo.md",
+    "97 - Indexes/Zoznam blogových článkov.base",
+    "00 - Drafts/Zoznam blogových článkov.md",
+    "99 - Templates/Draft Template.md",
+    "00 - Drafts/Article Ideas.md",
+    "99 - Templates/YearlyReview Template.md",
+    "99 - Templates/YearlyGoals Template.md",
+    "99 - Templates/Lection Template.md",
+    "99 - Templates/Course Template.md",
+    "99 - Templates/Books Template.md",
+    "00 - Scratch/2025-10-16.md",
+    "97 - Indexes/Notes.base",
     "97 - Indexes/Index - Templates.md",
-    "02 - Work/HowTo.md",
-    "99 - Templates/Emoji Template.md",
-    "04 - Blog/Aliases git vs. bash.md",
-    "02 - Work/Navod ako lokalne skontrolovat user-documentation.md",
-    "Untitled Kanban.md",
+    "00 - Drafts/Isaac Asimov.md",
+    "96 - Images",
     "Untitled/desktop.ini",
     "97 - Indexes",
-    "01 - Personal/Charles Robert Darwin.md",
-    "01 - Personal/Isaac Asimov.md",
-    "01 - Personal/Isaac Newton.md",
-    "05 - Trainings/GCP Training Prereqs.md",
     "01 - Personal/Cooking/desktop.ini",
     "98 - Archives/desktop.ini",
     "97 - Prompt Templates/desktop.ini",
     "01 - Personal/Cooking",
     "99 - Templates/99 - Index",
-    "99 - Templates/18 - Geographic",
-    "99 - Templates/17 - WordDictionary",
     "Untitled.canvas"
   ]
 }

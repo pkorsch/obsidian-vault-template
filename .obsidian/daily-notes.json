@@ -1,4 +1,5 @@
 {
-  "template": "99 - Templates/Daily",
-  "folder": "00 - Daily"
+  "template": "99 - Templates/Draft Template",
+  "folder": "00 - Drafts",
+  "autorun": true
 }

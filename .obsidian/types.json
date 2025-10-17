@@ -30,6 +30,8 @@
     "updated": "date",
     "read": "checkbox",
     "rating": "text",
-    "owned": "checkbox"
+    "owned": "checkbox",
+    "born": "date",
+    "died": "date"
   }
 }

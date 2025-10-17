@@ -1,0 +1,74 @@
+.tree-item-self.nav-folder-title.fn-is-active,
+.tree-item-self.nav-file-title.fn-is-active,
+.nav-folder-title.is-active,
+.nav-file-title.is-active {
+    background-color: var(--background-modifier-hover);
+}
+
+.nav-files-container>div {
+
+    >.tree-item:nth-of-type(8n+1) * {
+        --folder-color: var(--color-pink);
+        --folder-color-rgb: var(--color-pink-rgb);
+    }
+
+    >.tree-item:nth-of-type(8n+2) * {
+        --folder-color: var(--color-red);
+        --folder-color-rgb: var(--color-red-rgb);
+    }
+
+    >.tree-item:nth-of-type(8n+3) * {
+        --folder-color: var(--color-orange);
+        --folder-color-rgb: var(--color-orange-rgb);
+    }
+
+    >.tree-item:nth-of-type(8n+4) * {
+        --folder-color: var(--color-yellow);
+        --folder-color-rgb: var(--color-yellow-rgb);
+    }
+
+    >.tree-item:nth-of-type(8n+5) * {
+        --folder-color: var(--color-green);
+        --folder-color-rgb: var(--color-green-rgb);
+    }
+
+    >.tree-item:nth-of-type(8n+6) * {
+        --folder-color: var(--color-cyan);
+        --folder-color-rgb: var(--color-cyan-rgb);
+    }
+
+    >.tree-item:nth-of-type(8n+7) * {
+        --folder-color: var(--color-blue);
+        --folder-color-rgb: var(--color-blue-rgb);
+    }
+
+    >.tree-item:nth-of-type(8n+8) * {
+        --folder-color: var(--color-purple);
+        --folder-color-rgb: var(--color-purple-rgb);
+    }
+
+    >.tree-item {
+
+        * {
+            --nav-item-color-active: var(--folder-color);
+            --nav-item-background-active: var(--background-modifier-hover);
+            --nav-item-background-hover: rgba(var(--folder-color-rgb), var(--folder-hover-opacity));
+            --nav-indentation-guide-color: rgba(var(--folder-color-rgb), var(--folder-indentation-opacity));
+        }
+
+        .tree-item-children {
+            border-inline-start: var(--nav-indentation-guide-width) solid var(--nav-indentation-guide-color);
+        }
+
+        .nav-folder-title {
+            --nav-item-color-hover: var(--folder-color);
+            --nav-collapse-icon-color: var(--folder-color);
+            --nav-item-color: var(--folder-color);
+        }
+
+        .nav-file-title:hover,
+        .tree-item-self.fn-is-active:hover {
+            background-color: rgba(var(--folder-color-rgb), var(--folder-hover-opacity));
+        }
+    }
+}
