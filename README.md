@@ -18,9 +18,15 @@
 ### Example Flow
 
 1️⃣ You start your day → create a new note in **`00 - Drafts`**
+
 2️⃣ You refine an idea → move to **`01 - Develop`**
+
 3️⃣ You read new docs or articles → save to **`02 - Research`**
+
 4️⃣ You write an internal guide → store in **`03 - Knowledge Sharing`**
+
 5️⃣ Once published → move to **`98 - Archives`**
+
 6️⃣ Update links in your **`97 - Indexes`**
+
 7️⃣ Use **`99 - Templates`** to stay consistent
